@@ -2,21 +2,21 @@
   <img src="https://img.shields.io/badge/Bootcamp-TripleTen-blue?style=flat-square" alt="TripleTen Badge" />
 </p>
 
-<h1 align="center">Projeto Sprint 7</h1>
+<h1 align="center">Performance Analysis of Taxi Companies</h1>
 
 <p align="center">
-Notebook desenvolvido durante o Bootcamp <strong>TripleTen</strong>.
+Notebook developed during the <strong>TripleTen</strong> Bootcamp. 
 </p>
 
 ---
 
-## 📄 Descrição
-Este notebook realiza a **preparação**,**análise**,**testes**, **tratamento** e **análise exploriatória** de dados utilizando Python, Pandas, Matplotlib e Scipy.
-O objetivo é identificar padrões que determinam se um empresa de táxi tem sucesso ou não. Isso vai permitir identifiquemos possíveis sucessos e planeje campanhas publicitárias.
+## 📄 Description
+This notebook performs **preparation**, **analysis**, **testing**, **processing**, and **exploratory analysis** of data using Python, Pandas, Matplotlib, and Scipy.
+The goal is to identify patterns that determine whether a taxi company is successful or not. This will allow us to identify potential successes and plan advertising campaigns.
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 - Python 3.11.9
 - Jupyter Notebook 
 - Pandas
@@ -26,12 +26,12 @@ O objetivo é identificar padrões que determinam se um empresa de táxi tem suc
 
 ---
 
-## 🚀 Como usar
-1. Abra o arquivo `Sprint7.ipynb` no **Jupyter Notebook**.
-2. Execute as células em ordem.
-3. Visualize os resultados do tratamento de dados.
+## 🚀 How to use
+1. Open the `Sprint7.ipynb` file in **Jupyter Notebook**.
+2. Run the cells in order.
+3. View the results of the data processing.
 
 ---
 
-## ⚡ Licença
-Este projeto está sob a licença **MIT**.
+## ⚡ License
+This project is licensed under the **MIT** license.
